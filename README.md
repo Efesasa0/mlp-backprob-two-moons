@@ -17,3 +17,7 @@
 - **Project Insights**: The project successfully demonstrates the application of a multi-layer perceptron in classifying nonlinearly separable data. Key insights include the effectiveness of backpropagation in neural networks and the practical challenges in tuning and applying these models.
 
 _This project highlights the use of neural networks, particularly multi-layer perceptrons, in solving complex classification problems, where I show the balance between theory and practical application in machine learning._
+
+Here are links to my other work in EE456
+1. Implemented with pytorch: [auto-encoder-maze](https://github.com/Efesasa0/auto-encoder-maze.git)
+2. Implemented with pytorch: [cifar-cnn](https://github.com/Efesasa0/cifar-cnn.git)
