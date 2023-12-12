@@ -1,5 +1,8 @@
 # Multi-Layer Perceptron for Moon Data Classification
 
+* **seperation of two classes that resemble two moons**
+![output](./assets/output.png)
+
 - **Summary**: This project is part of EE456 at Penn State University. The main objective was to implement a multi-layer perceptron using MATLAB to classify two classes of moon-shaped data.
 
 ## File Descriptions
